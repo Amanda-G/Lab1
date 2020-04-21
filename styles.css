@@ -1,0 +1,23 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.options{
+    color: #69696a;
+}
+.button{
+    color:#fff;
+    background-color: #000;
+}
+div{
+    color: #69696a;
+    border-left: 5px #69696a;
+}
