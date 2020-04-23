@@ -125,21 +125,21 @@ body{
         background-color: rgba(247, 136, 167, 0.6);
         width:200px;
         height: 200px;
-        left:78%;
+        left:1000px;
         bottom:25px;
     }
     .circle2{
         background-color: rgba(207, 130, 213, 0.6);
         width:115px;
         height:115px;
-        left:90%;
+        left:1150px;
         bottom:190px;
         } 
     .circle3{
         background-color: rgba(247, 193, 162, 0.7);
         width:150px;
         height:150px;
-        left:88%;
+        left:1100px;
         bottom:220px;
     }
         
