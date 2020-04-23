@@ -1,7 +1,6 @@
 /* browser reset */
 body{
     margin: 0;
-    display:flex;
 }
 .title{
     margin:0;
@@ -51,9 +50,7 @@ body{
     text-align: center;
 }
 .global-body{
-    padding:10px;
-    padding-bottom: 0;
-    padding-top: 0;
+    padding:0 10px;
 }
 .body-content{
     padding:5spx;
@@ -75,6 +72,7 @@ body{
     }
     .global-header{
         display: flex;
+        padding-bottom: 20px;
     }
     .container{
         display: flex;
@@ -103,15 +101,19 @@ body{
     .body-text{
         width:50%;
     }
+    .main-text{
+        padding-top: 90px;
+    }
     .body-nav{
         width:8%;
         position: relative;
-        top: 73%;
+        top: 50%;
         left:50%;
         transform: translateX(-50%);
     }
     .circles-div{
         width:100%;
+        transform: translateY(-30%);
     }
     .circles{
         display:block;
